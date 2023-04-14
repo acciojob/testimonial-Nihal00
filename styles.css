@@ -9,3 +9,9 @@
 	margin: 10px;
 	box-shadow: 0 0 5px 0 #888888;
 }
+
+.writer {
+	font-style: italic;
+	text-align: right;
+	padding-right: 10px;
+}
